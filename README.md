@@ -1,8 +1,10 @@
-
 <img align="center" style="margin-bottom:100px" width=100% src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> <strong> Fala Devs!</strong> 🦈 <br><br>Sou um apaixonado pela tecnologia, movido pela incessante busca por conhecimento, <br> apaixonado por desafios que impulsionam meu crescimento constante.</p>&nbsp;
+<p align="center">
+  <strong>Fala Devs!</strong> 🦈 <br><br>
+  Desenvolvedor full stack movido por desafios reais.
+</p>&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
@@ -21,10 +23,15 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; </br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; </br>
 ![VUE JS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp; 
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)&nbsp;
 
 
 
